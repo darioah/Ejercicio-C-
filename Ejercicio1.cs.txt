@@ -1,0 +1,14 @@
+// Crear 3 variables numéricas con el valor que
+ tu quieras y en otra variable numérica
+ guardar el valor de la suma de las 3 anteriores. 
+Mostrar por consola.
+
+Console.WriteLine("Hello, World!");
+
+             int a = 5;
+            int b = 30;
+            int c = 4;
+ 
+            int suma = a + b + c;
+ 
+            Console.WriteLine ("La suma es "+suma);
