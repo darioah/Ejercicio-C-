@@ -1,0 +1,15 @@
+C:\Users\sebastian\Desktop\.NET ejercicios\bin\Debug\net6.0\.NET ejercicios.exe
+C:\Users\sebastian\Desktop\.NET ejercicios\bin\Debug\net6.0\.NET ejercicios.deps.json
+C:\Users\sebastian\Desktop\.NET ejercicios\bin\Debug\net6.0\.NET ejercicios.runtimeconfig.json
+C:\Users\sebastian\Desktop\.NET ejercicios\bin\Debug\net6.0\.NET ejercicios.dll
+C:\Users\sebastian\Desktop\.NET ejercicios\bin\Debug\net6.0\.NET ejercicios.pdb
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.csproj.AssemblyReference.cache
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.AssemblyInfoInputs.cache
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.AssemblyInfo.cs
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.dll
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\refint\.NET ejercicios.dll
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.pdb
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\.NET ejercicios.genruntimeconfig.cache
+C:\Users\sebastian\Desktop\.NET ejercicios\obj\Debug\net6.0\ref\.NET ejercicios.dll
